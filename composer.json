@@ -5,5 +5,10 @@
 		"rackspace/php-opencloud": "1.12"
 	},
 	"description": "rackspace php-opencloud for php 5.3 class wrapper",
-	"license": "MIT"
+	"license": "MIT",
+	"autoload": {
+		"psr-0": {
+			"MyCloudFiles": ["lib/"]
+		}
+	}
 }

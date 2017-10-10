@@ -5,7 +5,7 @@
 * - read more http://docs.php-opencloud.com/en/latest/using-php-5.3.html
 */
 
-require 'vendor/autoload.php';
+namespace MyCloudFiles;
 
 use OpenCloud\Rackspace;
 use OpenCloud\ObjectStore\Resource\DataObject;
