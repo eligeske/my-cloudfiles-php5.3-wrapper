@@ -5,6 +5,5 @@
 		"rackspace/php-opencloud": "1.12"
 	},
 	"description": "rackspace php-opencloud for php 5.3 class wrapper",
-	"license": "MIT",
-	"version": "1.0.0"
+	"license": "MIT"
 }
